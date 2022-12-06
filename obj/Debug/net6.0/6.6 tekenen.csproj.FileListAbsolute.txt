@@ -1,0 +1,15 @@
+D:\multimedi\Cscherp\6.6 tekenen\bin\Debug\net6.0\6.6 tekenen.exe
+D:\multimedi\Cscherp\6.6 tekenen\bin\Debug\net6.0\6.6 tekenen.deps.json
+D:\multimedi\Cscherp\6.6 tekenen\bin\Debug\net6.0\6.6 tekenen.runtimeconfig.json
+D:\multimedi\Cscherp\6.6 tekenen\bin\Debug\net6.0\6.6 tekenen.dll
+D:\multimedi\Cscherp\6.6 tekenen\bin\Debug\net6.0\6.6 tekenen.pdb
+D:\multimedi\Cscherp\6.6 tekenen\obj\Debug\net6.0\6.6 tekenen.csproj.AssemblyReference.cache
+D:\multimedi\Cscherp\6.6 tekenen\obj\Debug\net6.0\6.6 tekenen.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedi\Cscherp\6.6 tekenen\obj\Debug\net6.0\6.6 tekenen.AssemblyInfoInputs.cache
+D:\multimedi\Cscherp\6.6 tekenen\obj\Debug\net6.0\6.6 tekenen.AssemblyInfo.cs
+D:\multimedi\Cscherp\6.6 tekenen\obj\Debug\net6.0\6.6 tekenen.csproj.CoreCompileInputs.cache
+D:\multimedi\Cscherp\6.6 tekenen\obj\Debug\net6.0\6.6 tekenen.dll
+D:\multimedi\Cscherp\6.6 tekenen\obj\Debug\net6.0\refint\6.6 tekenen.dll
+D:\multimedi\Cscherp\6.6 tekenen\obj\Debug\net6.0\6.6 tekenen.pdb
+D:\multimedi\Cscherp\6.6 tekenen\obj\Debug\net6.0\6.6 tekenen.genruntimeconfig.cache
+D:\multimedi\Cscherp\6.6 tekenen\obj\Debug\net6.0\ref\6.6 tekenen.dll
